@@ -2,12 +2,7 @@
 
 A Maven-based web application developed as part of the college curriculum. This project implements a user-friendly interface for interacting with an AI chatbot, featuring user authentication, real-time chat functionality, and profile management.
 
-## Project Overview
 
-**Course:** [Your Course Name]
-**Submitted By:** [Your Name]
-**Roll Number:** [Your Roll Number]
-**Semester:** [Your Semester]
 
 ## Features
 
