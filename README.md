@@ -124,9 +124,7 @@ mvn test
 - `POST /chat/message` - Send message
 - `GET /chat/history` - Get chat history
 
-## Project Screenshots
 
-[Add screenshots of your application here]
 
 ## Future Enhancements
 
@@ -136,8 +134,4 @@ mvn test
 - Voice message support
 - Multi-language support
 
-## References
 
-1. [List your references and learning resources]
-2. [Include links to tutorials or documentation you used]
-3. [Add any academic papers or articles referenced]
