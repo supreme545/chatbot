@@ -1,0 +1,23 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# Application properties with sensitive data
+src/main/resources/application.properties
+
+# OS
+.DS_Store
+Thumbs.db
